@@ -1,10 +1,11 @@
 🥩 # Landing page for а butchery 
 
-![image](https://github.com/G-o-T/glav_meeet/assets/95774476/301464e3-dca7-432f-ad47-f40bafe7fc68)
+![image](https://github.com/G-o-T/glav_meeet/assets/95774476/d4a230a7-5deb-40f3-b640-1d4f7126e016)
 
-This project was created for a real customer during studing Frontend.
-
-
+This project was created for a real customer at the beggining of studing Frontend.
+My role was:
+- as a web-designer - to develop a responsive mock-up in Figma;
+- as a tech-lead - to perform adaptive layout of your part of the project, supervise the most complex moments on the technical part of the team members.
 
 ## Technologies:
 <div>
