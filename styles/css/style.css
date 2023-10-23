@@ -1,8 +1,9 @@
 @charset "UTF-8";
 @font-face {
   font-family: "Raleway";
-  src: url(/assets/fonts/Raleway-VariableFont_wght.eot);
-  src: url(./assets/fonts/Raleway-VariableFont_wght.eot) format("embedded-opentype"), url(./assets/fonts/Raleway-VariableFont_wght.woff2) format("woff2"), url(./assets/fonts/Raleway-VariableFont_wght.woff) format("woff"), url("./assets/fonts/Raleway-VariableFont_wght.ttf") format("truetype"), url("./assets/fonts/Raleway-VariableFont_wght.otf") format("opentype");
+  src: url(../../assets/fonts//fonts/Raleway-VariableFont_wght.eot);
+  /* src: url(./assets/fonts/Raleway-VariableFont_wght.eot) format("embedded-opentype"), url(./assets/fonts/Raleway-VariableFont_wght.woff2) format("woff2"), url(./assets/fonts/Raleway-VariableFont_wght.woff) format("woff"), url("./assets/fonts/Raleway-VariableFont_wght.ttf") format("truetype"), url("./assets/fonts/Raleway-VariableFont_wght.otf") format("opentype"); */
+  src: url(../../assets/fonts/Raleway-VariableFont_wght.eot) format("embedded-opentype"), url(../../assets/fonts/Raleway-VariableFont_wght.woff2) format("woff2"), url(../../assets/fonts/Raleway-VariableFont_wght.woff) format("woff"), url(../../assets/fonts/Raleway-VariableFont_wght.ttf) format("truetype"), url(../../assets/fonts/Raleway-VariableFont_wght.otf) format("opentype");
   font-weight: 300 800;
   font-style: normal;
 }
@@ -231,14 +232,14 @@ a:hover {
   }
 }
 .offer {
-  background-image: url("../images/offer.jpg");
+  background-image: url(../../assets/images/offer.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 @media (max-width: 730px) {
   .offer {
-    background-image: url(/assets/images/offer_mobile.jpg);
+    background-image: url(../../assets/images/offer_mobile.jpg);
   }
 }
 
@@ -724,7 +725,7 @@ a:hover {
 .review__rating-item {
   width: 12px;
   height: 12px;
-  background-image: url("./assets/images/star.svg");
+  background-image: url("../images/star.svg");
   background-size: contain;
 }
 .review__text {
@@ -737,10 +738,10 @@ a:hover {
   сolor: #000;
 }
 .review__arrow_prev {
-  background-image: url("./assets/images/arrow_prev.svg");
+  background-image: url("../../assets/images/arrow_prev.svg");
 }
 .review__arrow_next {
-  background-image: url("./assets/images/arrow_next.svg");
+  background-image: url('images/arrow_next.svg');
 }
 .review__arrow_prev, .review__arrow_next {
   background-size: contain;
@@ -956,14 +957,14 @@ a:hover {
 }
 
 .banner-small {
-  background-image: url("./assets/images/banner.jpg");
+  background-image: url("../../assets/images/banner.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 @media (max-width: 764px) {
   .banner-small {
-    background-image: url("./assets/images/banner_mobile.png");
+    background-image: url("../../assets/images/banner_mobile.png");
   }
 }
 
@@ -1046,7 +1047,7 @@ a:hover {
   width: 18px;
   height: 18px;
   background-size: contain;
-  background-image: url("./assets/images/arrow.svg");
+  background-image: url("../../../../arrow.svg");
   filter: invert(15%) sepia(63%) saturate(3827%) hue-rotate(340deg) brightness(84%) contrast(101%);
   transition: all 0.35s;
   background-repeat: no-repeat;
@@ -1330,7 +1331,7 @@ input:checked ~ .tab-label .tab-ico {
   flex: 1 0 auto;
   width: clamp(50px, 8.68vw, 125px);
   height: clamp(42.4px, 7.36vw, 106px);
-  background-image: url("./assets/images/logo_footer.svg");
+  background-image: url("../../logo_footer.svg");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -1391,7 +1392,7 @@ input:checked ~ .tab-label .tab-ico {
   width: 14px;
   height: 20px;
   box-sizing: border-box;
-  background-image: url("./assets/images/map_icon_footer.svg");
+  background-image: url("../../assets/images/map_icon_footer.svg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
