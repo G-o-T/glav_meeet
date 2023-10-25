@@ -741,7 +741,7 @@ a:hover {
   background-image: url(../../assets/images/arrow_prev.svg);
 }
 .review__arrow_next {
-  background-image: url(../../images/arrow_next.svg);
+  background-image: url(../../assets/images/arrow_next.svg);
 }
 .review__arrow_prev, .review__arrow_next {
   background-size: contain;
@@ -957,14 +957,14 @@ a:hover {
 }
 
 .banner-small {
-  background-image: url(../../images/banner.jpg);
+  background-image: url(../../assets/images/banner.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 @media (max-width: 764px) {
   .banner-small {
-    background-image: url(../../images/banner_mobile.png);
+    background-image: url(../../assets/images/banner_mobile.png);
   }
 }
 
@@ -1047,7 +1047,7 @@ a:hover {
   width: 18px;
   height: 18px;
   background-size: contain;
-  background-image: url(../../images/arrow.svg");
+  background-image: url(../../assets/images/arrow.svg");
   filter: invert(15%) sepia(63%) saturate(3827%) hue-rotate(340deg) brightness(84%) contrast(101%);
   transition: all 0.35s;
   background-repeat: no-repeat;
@@ -1392,7 +1392,7 @@ input:checked ~ .tab-label .tab-ico {
   width: 14px;
   height: 20px;
   box-sizing: border-box;
-  background-image: url(../../map_icon_footer.svg);
+  background-image: url(../../assets/images/map_icon_footer.svg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -1401,7 +1401,7 @@ input:checked ~ .tab-label .tab-ico {
 .footer__contacts__phone__icon {
   width: 20px;
   height: 20px;
-  background-image: url(../phone-icon.svg);
+  background-image: url(../../assets/images/phone-icon.svg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -1411,7 +1411,7 @@ input:checked ~ .tab-label .tab-ico {
 .footer__contacts__wa__icon {
   width: 20px;
   height: 20px;
-  background-image: url(../../images/whatsapp-icon.svg);
+  background-image: url(../../assets/images/whatsapp-icon.svg);
   background-size: contain;
   background-repeat: no-repeat;
   filter: invert(85%) sepia(44%) saturate(104%) hue-rotate(345deg) brightness(97%) contrast(102%);
@@ -1420,7 +1420,7 @@ input:checked ~ .tab-label .tab-ico {
 .footer__contacts__vk__icon {
   width: 20px;
   height: 20px;
-  background-image: url(../../images/vk-icon.svg);
+  background-image: url(../../assets/images/vk-icon.svg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
