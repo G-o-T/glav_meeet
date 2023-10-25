@@ -17,4 +17,4 @@ My role was:
 ## Thanks to all Contributors
 [![Contributors](https://contrib.rocks/image?repo=20thcenturyfrog/glav_meeet)](https://github.com/20thcenturyfrog/glav_meeet/graphs/contributors)
 
-## Result:
+## [Result](https://g-o-t.github.io/glav_meeet/)
