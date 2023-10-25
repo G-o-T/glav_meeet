@@ -1331,7 +1331,7 @@ input:checked ~ .tab-label .tab-ico {
   flex: 1 0 auto;
   width: clamp(50px, 8.68vw, 125px);
   height: clamp(42.4px, 7.36vw, 106px);
-  background-image: url(../../images/logo_footer.svg);
+  background-image: url(../../assets/images/logo_footer.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -1392,7 +1392,7 @@ input:checked ~ .tab-label .tab-ico {
   width: 14px;
   height: 20px;
   box-sizing: border-box;
-  background-image: url(../../assets/images/map_icon_footer.svg);
+  background-image: url(../../map_icon_footer.svg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
