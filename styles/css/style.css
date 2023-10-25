@@ -1392,7 +1392,7 @@ input:checked ~ .tab-label .tab-ico {
   width: 14px;
   height: 20px;
   box-sizing: border-box;
-  background-image: url(../assets/images/map_icon_footer.svg);
+  background-image: url(../../map_icon_footer.svg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -1401,7 +1401,7 @@ input:checked ~ .tab-label .tab-ico {
 .footer__contacts__phone__icon {
   width: 20px;
   height: 20px;
-  background-image: url(../../images/phone-icon.svg);
+  background-image: url(../phone-icon.svg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
