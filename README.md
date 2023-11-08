@@ -5,7 +5,7 @@
 This project was created for a real customer at the beggining of studing Frontend.
 My role was:
 - as a web-designer - to develop a responsive mock-up in Figma;
-- as a tech-lead - to perform adaptive layout of your part of the project, supervise the most complex moments on the technical part of the team members.
+- to perform adaptive layout of my part of the project, supervise the most complex moments on the technical part of the team members.
 
 ## Technologies:
 <div>
